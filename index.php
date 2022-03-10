@@ -2,7 +2,7 @@
 /**
  * CodeIgniter
  *
- * An open source application development framework for PHP
+ * An open sourc     e app   lication development framework for PHP
  *
  * This content is released under the MIT License (MIT)
  *
@@ -61,7 +61,7 @@
  *---------------------------------------------------------------
  *
  * Different environments will require different levels of error reporting.
- * By default development will show errors but testing and live will hide them.
+ * By default development will  show errors but testing and live will hide them.
  */
 switch (ENVIRONMENT)
 {
